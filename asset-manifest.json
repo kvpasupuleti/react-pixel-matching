@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pixel-matching/static/css/main.2922d876.css",
+    "main.js": "/react-pixel-matching/static/js/main.86f4f691.js",
+    "index.html": "/react-pixel-matching/index.html",
+    "main.2922d876.css.map": "/react-pixel-matching/static/css/main.2922d876.css.map",
+    "main.86f4f691.js.map": "/react-pixel-matching/static/js/main.86f4f691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2922d876.css",
+    "static/js/main.86f4f691.js"
+  ]
+}
